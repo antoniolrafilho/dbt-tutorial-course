@@ -1,0 +1,6 @@
+{
+  "python.terminal.useEnvFile": true
+  ,"git.openDiffOnClick": true,
+  ,"workbench.editor.enablePreview": false,
+  ,"diffEditor.renderSideBySide": true
+}
